@@ -1,0 +1,56 @@
+[
+  {
+    "EmployeeId": "831bb287-b797-4863-b14b-1d8270ccd648",
+    "Name": "Thea",
+    "Position": "Manager",
+    "DaysWorked": 1,
+    "OvertimeHours": 1,
+    "DailyRate": 600,
+    "OvertimeRate": 95
+  },
+  {
+    "EmployeeId": "00000000-0000-0000-0000-000000000000",
+    "Name": "Thea",
+    "Position": "Crew",
+    "DaysWorked": 10,
+    "OvertimeHours": 2,
+    "DailyRate": 600,
+    "OvertimeRate": 92
+  },
+  {
+    "EmployeeId": "00000000-0000-0000-0000-000000000000",
+    "Name": "Jamaic",
+    "Position": "Crew",
+    "DaysWorked": 12,
+    "OvertimeHours": 2,
+    "DailyRate": 600,
+    "OvertimeRate": 92
+  },
+  {
+    "EmployeeId": "00000000-0000-0000-0000-000000000000",
+    "Name": "Allysa Dela Cruz",
+    "Position": "Crew",
+    "DaysWorked": 10,
+    "OvertimeHours": 5,
+    "DailyRate": 600,
+    "OvertimeRate": 92
+  },
+  {
+    "EmployeeId": "00000000-0000-0000-0000-000000000000",
+    "Name": "Adrian Arzola",
+    "Position": "Crew",
+    "DaysWorked": 11,
+    "OvertimeHours": 2,
+    "DailyRate": 600,
+    "OvertimeRate": 92
+  },
+  {
+    "EmployeeId": "00000000-0000-0000-0000-000000000000",
+    "Name": "Rain",
+    "Position": "Crew",
+    "DaysWorked": 12,
+    "OvertimeHours": 12,
+    "DailyRate": 600,
+    "OvertimeRate": 92
+  }
+]

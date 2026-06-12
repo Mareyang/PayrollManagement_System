@@ -1,0 +1,90 @@
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\bin\Debug\net8.0\payrollsystem.exe
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\bin\Debug\net8.0\payrollsystem.deps.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\bin\Debug\net8.0\payrollsystem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\bin\Debug\net8.0\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\bin\Debug\net8.0\payrollsystem.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\refint\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\payrollsystem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\payroll-management-dlcrz\obj\Debug\net8.0\ref\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\payrollsystem.exe
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\payrollsystem.deps.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\payrollsystem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\payrollsystem.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\refint\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\ref\payrollsystem.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollDataServices.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollManagement.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollManagementModels.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollManagement.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollDataServices.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\PayrollManagementModels.pdb
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrolls.2C29D725.Up2Date
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Admin\OneDrive\Documents\DELA CRUZ\PAYROLL_MANAGEMENT\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.csproj.AssemblyReference.cache
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.AssemblyInfoInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.AssemblyInfo.cs
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.csproj.CoreCompileInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.sourcelink.json
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.dll
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\refint\payrollsystem.dll
+C:\PayrollManagement\PayrollManagement_System\PAYROLL_MANAGEMENT\obj\Debug\net8.0\payrollsystem.pdb

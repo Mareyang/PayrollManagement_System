@@ -1,0 +1,6 @@
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.csproj.AssemblyReference.cache
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.AssemblyInfoInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.AssemblyInfo.cs
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.csproj.CoreCompileInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PayrollManagement\obj\Debug\net8.0\PayrollManagement.sourcelink.json

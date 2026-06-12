@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "PayrollDataService/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PayrollManagementModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PayrollDataService.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PayrollDataService.dll": {}
+        }
+      },
+      "PayrollManagement/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PayrollDataService": "1.0.0",
+          "PayrollManagementModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PayrollManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PayrollManagement.dll": {}
+        }
+      },
+      "PayrollManagementModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PayrollManagementModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PayrollManagementModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PayrollDataService/1.0.0": {
+      "type": "project",
+      "path": "../PayrollDataServices/PayrollDataService.csproj",
+      "msbuildProject": "../PayrollDataServices/PayrollDataService.csproj"
+    },
+    "PayrollManagement/1.0.0": {
+      "type": "project",
+      "path": "../PayrollManagement/PayrollManagement.csproj",
+      "msbuildProject": "../PayrollManagement/PayrollManagement.csproj"
+    },
+    "PayrollManagementModels/1.0.0": {
+      "type": "project",
+      "path": "../PayrollManagementModels/PayrollManagementModels.csproj",
+      "msbuildProject": "../PayrollManagementModels/PayrollManagementModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "PayrollManagement >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\PayrollManagement\\PayrollManagement_System\\PAYROLL_MANAGEMENT\\payrollsystem.csproj",
+      "projectName": "payrollsystem",
+      "projectPath": "C:\\PayrollManagement\\PayrollManagement_System\\PAYROLL_MANAGEMENT\\payrollsystem.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "C:\\PayrollManagement\\PayrollManagement_System\\PAYROLL_MANAGEMENT\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\PayrollManagement\\PayrollManagement_System\\PayrollManagement\\PayrollManagement.csproj": {
+              "projectPath": "C:\\PayrollManagement\\PayrollManagement_System\\PayrollManagement\\PayrollManagement.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

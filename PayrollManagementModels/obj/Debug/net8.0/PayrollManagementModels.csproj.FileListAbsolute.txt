@@ -1,0 +1,12 @@
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\bin\Debug\net8.0\PayrollManagementModels.deps.json
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\bin\Debug\net8.0\PayrollManagementModels.dll
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\bin\Debug\net8.0\PayrollManagementModels.pdb
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.AssemblyInfoInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.AssemblyInfo.cs
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.csproj.CoreCompileInputs.cache
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.sourcelink.json
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.dll
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\refint\PayrollManagementModels.dll
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\PayrollManagementModels.pdb
+C:\PayrollManagement\PayrollManagement_System\PayrollManagementModels\obj\Debug\net8.0\ref\PayrollManagementModels.dll
